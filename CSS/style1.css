@@ -8,11 +8,11 @@ h1 {
 	
 	text-align: center;
 	font-family: 'Arvo', serif;
-	font-size: 60px;
+	font-size: 60;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
-	line-height: 26.4px;
+	line-height: 26.4;
 
 }
 
@@ -20,28 +20,28 @@ h2 {
 	
 	text-align: center;
 	font-family: 'Arvo', serif;
-	font-size: 35px;
+	font-size: 35;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
-	line-height: 26.4px;
+	line-height: 26.4;
 
 }
 
 #main 
 {
-	width: 1400px;
-	height: 1600px;
+	width: 1400;
+	height: 1600;
 	background: rgb(255,255,255);
-	margin: 60px auto;
-	border: solid 1px rgb(0,0,0);
+	margin: 60 auto;
+	border: solid 1 rgb(0,0,0);
 	
 }
 
 #topper 
 {
 	background-color: rgb(0,161,153);
-    padding: 20px;
+    padding: 20;
     text-align: center;
 	top: 0%;
 	width: 100%;
@@ -52,7 +52,7 @@ h2 {
 	
 	text-align: center;
 	background: rgb(0,0,0);
-	height: 55px;
+	height: 55;
 	
 	
 }
@@ -61,9 +61,9 @@ h2 {
 	float: left;
     color: #f2f2f2;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14 16;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 25;
 
 
 }
