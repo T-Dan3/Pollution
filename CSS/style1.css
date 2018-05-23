@@ -1,0 +1,80 @@
+body
+{
+	margin: 0;
+	background-color: rgb( 0, 161, 153 );
+}
+
+h1 {
+	
+	text-align: center;
+	font-family: 'Arvo', serif;
+	font-size: 60px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+
+}
+
+h2 {
+	
+	text-align: center;
+	font-family: 'Arvo', serif;
+	font-size: 35px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+
+}
+
+#main 
+{
+	width: 1550px;
+	height: 1600px;
+	background: White;
+	margin: 60px auto;
+	border: solid 1px black;
+	
+}
+
+#topper 
+{
+	background-color: Teal;
+    padding: 20px;
+    text-align: center;
+	top: 0%;
+	width: 100%;
+
+}
+
+#nav {
+	
+	text-align: center;
+	background: black;
+	height: 55px;
+	
+	
+}
+
+#nav a {
+	float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+	width: 100%px;
+
+}
+
+#nav a:hover {
+	background-color: grey;
+	color: black;
+}
+
+#active {
+	background-color: green;
+	color:white;
+	
+}
